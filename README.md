@@ -10,10 +10,8 @@ Fra meme, gif, immagini e bot con mille comandi ci sono tanti consigli utili con
 ## Categorie
 
 Le faq sono divise nelle seguenti categorie:     
-- [Cv](cv/README.MD)
-- [Linkedin](linkedin/README.MD)
-- [Ral](ral/README.MD)
+- [Cv](cv/cv.md)
+- [Linkedin](linkedin/linkedin.md)
+- [Ral](ral/ral.md)
 
 Nel caso la tua faq non sia disponibile o compresa fra le categorie disponibili, puoi aprire [un'issue](https://github.com/scriptswhisper/ptkdev_italian_group_faq/issues) o una [pr](https://github.com/scriptswhisper/ptkdev_italian_group_faq/pulls).
-
-
