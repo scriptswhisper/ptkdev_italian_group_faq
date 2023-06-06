@@ -9,6 +9,7 @@ Catalogando e organizzando proprio questi spunti vorremmo facilitare la fruizion
 Le FAQ sono divise nelle seguenti categorie:
 - [Curriculum Vitae](curriculum-vitae/README.md)
 - [LinkedIn](linkedin/README.md)
+- [No Profit](no-profit/README.MD)
 - [RAL](ral/README.md)
 
 Nel caso la tua FAQ non sia disponibile o compresa fra le categorie disponibili, puoi aprire [un'issue](https://github.com/scriptswhisper/ptkdev_italian_group_faq/issues) o una [PR](https://github.com/scriptswhisper/ptkdev_italian_group_faq/pulls).
