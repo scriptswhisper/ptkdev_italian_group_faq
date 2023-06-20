@@ -8,6 +8,7 @@ Catalogando e organizzando proprio questi spunti vorremmo facilitare la fruizion
 ## 📂 Categorie
 Le FAQ sono divise nelle seguenti categorie:
 - [Curriculum Vitae](curriculum-vitae/README.md)
+- [Lavoro](lavoro/README.md)
 - [LinkedIn](linkedin/README.md)
 - [No Profit](no-profit/README.MD)
 - [RAL](ral/README.md)
