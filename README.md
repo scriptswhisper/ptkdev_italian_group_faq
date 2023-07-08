@@ -7,6 +7,7 @@ Catalogando e organizzando proprio questi spunti vorremmo facilitare la fruizion
 
 ## 📂 Categorie
 Le FAQ sono divise nelle seguenti categorie:
+- [Backend](backend/README.md)
 - [Casa](casa/README.md)
 - [Curriculum Vitae](curriculum-vitae/README.md)
 - [Lavoro](lavoro/README.md)
