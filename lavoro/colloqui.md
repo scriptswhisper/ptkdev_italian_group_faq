@@ -2,10 +2,14 @@
 In questa sottocategoria sono raccolti tutti i messaggi e le discussioni riguardanti i colloqui.
 
 ## Domande da fare al colloquio
+`❓Question`: Parlando di domande da fare agli hr, secondo voi quali sono le principali da fare?
+
+[🔗 Link alla discussione](https://t.me/ptkdev_support_italian/1/340834)
+
+## Domande da fare al colloquio, startup
 `❓Question`: Ragazzi sono all’ultimo colloquio per un’offerta per una startup, tralasciando la parte puramente economica (sono al primo impiego, ho potere di trattare fino ad un certo punto), che domande consigliereste di fare? 
 
 [🔗 Link alla discussione](https://t.me/ptkdev_support_italian/484902/619794)
-
 
 ## Preparazione colloquio Faang
 `❓Question`: Come se posso? Qual è stato il tuo Path?
