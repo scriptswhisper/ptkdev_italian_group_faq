@@ -12,7 +12,7 @@ Le FAQ sono divise nelle seguenti categorie:
 - [Curriculum Vitae](curriculum-vitae/README.md)
 - [Lavoro](lavoro/README.md)
 - [LinkedIn](linkedin/README.md)
-- [No Profit](no-profit/README.MD)
+- [No Profit](no-profit/README.md)
 - [RAL](ral/README.md)
 
 Ogni categoria contiene una o più sottocategorie per facilitare la lettura e la ricerca per argomento.
